@@ -2,11 +2,7 @@
   	<h1>
     	Japanese Language Youtubers
   	</h1>
-	<br/>
 </div>
-
-<br/>
-<br/>
 
 > Watch videos from YouTubers that teach you about Japan and the Japanese language.
 
@@ -16,7 +12,6 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 
 - [Learning Japanese in General](#learning-japanese-in-general)
-WORK IN PROGRESS
 - [Learning Methods](#learning-methods)
 - [JLPT Prep](#jlpt-prep)
 - [Conversation](#conversation)
@@ -36,7 +31,7 @@ Featured playlists: `日本語おもしろい！`, `JLPT N3`, `JLPT N2`, `JLPT N
 [<img align="left" height="94px" width="94px" alt="Miku Real Japanese channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhuOeHm_8L1ew5s4Mcv-XGXNeXh_XY4wF3dHlGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 
 [**Miku Real Japanese**](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ) </br>
-Content about: Grammar/conjugation, conversation/listening \
+Content about: Grammar, conversation/listening \
 Featured playlists: `Grammar videos`, `Japanese listening video`, `Learn Japanese with Terrace House`.
 </br></br>
 
