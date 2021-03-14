@@ -5,6 +5,8 @@
 </div>
 
 > Watch videos from YouTubers that teach you about Japan and the Japanese language.
+> 
+This list is inspired by (but not affiliated with) the Awesome Youtubers list.
 
 ## Contents
 
