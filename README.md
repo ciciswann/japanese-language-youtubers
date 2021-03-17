@@ -51,6 +51,13 @@ Content about: Vocabulary, grammar \
 Featured playlists: `Japanese Immersion: The organic approach`, `Japanese Vocabulary and Kanji Hacks: Learn vocabulary the SMART way`, `Japanese from scratch: the game-changing course in organic`.
 </br></br>
 
+[<img align="left" height="94px" width="94px" alt="Tokini Andy channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniZbPeOhNUCg2Kr69do-Me3JS7o0Fw9GEBMh1gEXQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCsHzgQRjPzOz_w4HSrNLIVw)
+
+[**ToKini Andy**](https://www.youtube.com/channel/UCsHzgQRjPzOz_w4HSrNLIVw) </br>
+Content about: Genki textbook lessons, learning methods \
+Featured playlists: `【N5-N4】GENKI Grammar Made Clear 【NO CHAT】`, `Japanese Conjugation Simplified`
+</br></br>
+
 ## Learning Methods
 
 These Youtubers talk more about the different ways in which you can learn the japanese language and how they went about learning japanese. They also might provide helpful resources or tutorials.
