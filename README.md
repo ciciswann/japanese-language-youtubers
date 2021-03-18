@@ -18,7 +18,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [JLPT Prep](#jlpt-prep)
 - [Conversation](#conversation)
 - [Shadowing](#shadowing-parents)
-- [Japan & Lifestyle](#lifestyle)
+- [Lifestyle](#lifestyle)
 
 ## Learning Japanese in General
 
@@ -89,4 +89,13 @@ Featured playlists: `日本語 | Japanese 🇯🇵`, `Language motivation`.
 [**日本語の森 - Nihongo no Mori**](https://www.youtube.com/user/freejapaneselessons3) </br>
 Content about: JLPT prep, grammar \
 Featured playlists: `JLPT N3`, `N2文法 || N2 Grammar`.
+</br></br>
+
+## Lifestyle
+
+[<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniaVZODdmRUvUOYXiZzCfia_sWLul6YtVX1_ZTDew=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/kemushichan)
+
+[**KemushiChan ロレッタ**](https://www.youtube.com/user/kemushichan) </br>
+Content about: Life in Japan, how to learn japanese, conversations \
+Featured playlists: `Speaking Japanese w/ Strangers | Travel Vlogs w/ KemushiChan`, `School Vlogs // Japanese University & Grad School`.
 </br></br>
