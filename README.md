@@ -99,3 +99,10 @@ Featured playlists: `JLPT N3`, `N2文法 || N2 Grammar`.
 Content about: Life in Japan, how to learn japanese, conversations \
 Featured playlists: `Speaking Japanese w/ Strangers | Travel Vlogs w/ KemushiChan`, `School Vlogs // Japanese University & Grad School`.
 </br></br>
+
+[<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhjUs3SD6oSxtczjYtxBnWY7X1TlTlLun55auJA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCAZ3ETrKHKXxHg1OFQETtGA)
+
+[**Boomlore**](https://www.youtube.com/channel/UCAZ3ETrKHKXxHg1OFQETtGA) </br>
+Content about: Life in Japan, how to learn japanese, JLPT prep methods \
+Featured playlists: `JAPAN VLOGS by Loretta & Boomer`
+</br></br>
