@@ -58,6 +58,13 @@ Content about: Genki textbook lessons, learning methods \
 Featured playlists: `【N5-N4】GENKI Grammar Made Clear 【NO CHAT】`, `Japanese Conjugation Simplified`
 </br></br>
 
+[<img align="left" height="94px" width="94px" alt="Nihongo to Tabi channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni3uE2lIdWJimQ-j4DdYazaPB6_-Khao8ejdou97A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ)
+
+[**Nihongo to Tabi**](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ) </br>
+Content about: Japanese grammar, Japanese by theme \
+Featured playlists: `テーマ別日本語（Japanese by theme)`, `文法（JLPT N3 Grammar)`
+</br></br>
+
 ## Learning Methods
 
 These Youtubers talk more about the different ways in which you can learn the japanese language and how they went about learning japanese. They also might provide helpful resources or tutorials.
