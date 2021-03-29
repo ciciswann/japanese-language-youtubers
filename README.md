@@ -49,7 +49,7 @@ Featured playlists: `Japanese Vocabulary & Slang`, `Listening Practice`, `NEW Ab
 [**Organic Japanese with Cure Dolly**](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) </br>
 Content about: Vocabulary, grammar \
 Featured playlists: `Japanese Immersion: The organic approach`, `Japanese Vocabulary and Kanji Hacks: Learn vocabulary the SMART way`, `Japanese from scratch: the game-changing course in organic`.
-</br></br>
+</br>
 
 [<img align="left" height="94px" width="94px" alt="Tokini Andy channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniZbPeOhNUCg2Kr69do-Me3JS7o0Fw9GEBMh1gEXQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCsHzgQRjPzOz_w4HSrNLIVw)
 
