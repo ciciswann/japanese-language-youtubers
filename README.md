@@ -106,3 +106,10 @@ Featured playlists: `Speaking Japanese w/ Strangers | Travel Vlogs w/ KemushiCha
 Content about: Life in Japan, how to learn japanese, JLPT prep methods \
 Featured playlists: `JAPAN VLOGS by Loretta & Boomer`
 </br></br>
+
+[<img align="left" height="94px" width="94px" alt="Onomappu channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhgcyrXjyFZXOno0pTyWi3eOqC9aULwh5jOZcBE=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ)
+
+[**Onomappu**](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ) </br>
+Content about: Onomatopoeia, how to learn japanese, Japanese culture in easy japanese \
+Featured playlists: `Onomatopoeia All Videos`
+</br></br>
