@@ -13,22 +13,14 @@ This list is inspired by (but not affiliated with) the Awesome Youtubers list.
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 It's recommended to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep this list in a separate tab.
 
-- [Learning Japanese in General](#learning-japanese-in-general)
+- [Learning Japanese in English](#learning-japanese-in-english)
+- [Learning Japanese in Japanese](#learning-japanese-in-japanese)
 - [Learning Methods](#learning-methods)
-- [JLPT Prep](#jlpt-prep)
 - [Conversation](#conversation)
 - [Shadowing](#shadowing-parents)
 - [Lifestyle](#lifestyle)
 
-## Learning Japanese in General
-
-
-[<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
-
-[**三本塾Sambon Juku**](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw) </br>
-Content about: Grammar, listening, JLPT Prep \
-Featured playlists: `日本語おもしろい！`, `JLPT N3`, `JLPT N2`, `JLPT N1`.
-</br></br>
+## Learning Japanese in English
 
 [<img align="left" height="94px" width="94px" alt="Miku Real Japanese channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhuOeHm_8L1ew5s4Mcv-XGXNeXh_XY4wF3dHlGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 
@@ -58,11 +50,34 @@ Content about: Genki textbook lessons, learning methods \
 Featured playlists: `【N5-N4】GENKI Grammar Made Clear 【NO CHAT】`, `Japanese Conjugation Simplified`
 </br></br>
 
+## Learning Japanese in Japanese
+
+[<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
+
+[**三本塾Sambon Juku**](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw) </br>
+Content about: Grammar, listening, JLPT Prep \
+Featured playlists: `日本語おもしろい！`, `JLPT N3`, `JLPT N2`, `JLPT N1`.
+</br></br>
+
 [<img align="left" height="94px" width="94px" alt="Nihongo to Tabi channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni3uE2lIdWJimQ-j4DdYazaPB6_-Khao8ejdou97A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ)
 
 [**Nihongo to Tabi**](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ) </br>
 Content about: Japanese grammar, Japanese by theme \
 Featured playlists: `テーマ別日本語（Japanese by theme)`, `文法（JLPT N3 Grammar)`
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniBb7-wryq1FTyfIMmsPa_fDwin7-EmvspqM6ileQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/freejapaneselessons3)
+
+[**日本語の森 - Nihongo no Mori**](https://www.youtube.com/user/freejapaneselessons3) </br>
+Content about: JLPT prep, grammar \
+Featured playlists: `JLPT N3`, `N2文法 || N2 Grammar`.
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Onomappu channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhgcyrXjyFZXOno0pTyWi3eOqC9aULwh5jOZcBE=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ)
+
+[**Onomappu**](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ) </br>
+Content about: Onomatopoeia, how to learn japanese, Japanese culture in easy japanese \
+Featured playlists: `Onomatopoeia All Videos`
 </br></br>
 
 ## Learning Methods
@@ -89,15 +104,6 @@ Content about: Language learning, JLPT prep \
 Featured playlists: `日本語 | Japanese 🇯🇵`, `Language motivation`.
 </br></br>
 
-## JLPT Prep
-
-[<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniBb7-wryq1FTyfIMmsPa_fDwin7-EmvspqM6ileQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/freejapaneselessons3)
-
-[**日本語の森 - Nihongo no Mori**](https://www.youtube.com/user/freejapaneselessons3) </br>
-Content about: JLPT prep, grammar \
-Featured playlists: `JLPT N3`, `N2文法 || N2 Grammar`.
-</br></br>
-
 ## Lifestyle
 
 [<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniaVZODdmRUvUOYXiZzCfia_sWLul6YtVX1_ZTDew=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/kemushichan)
@@ -114,9 +120,3 @@ Content about: Life in Japan, how to learn japanese, JLPT prep methods \
 Featured playlists: `JAPAN VLOGS by Loretta & Boomer`
 </br></br>
 
-[<img align="left" height="94px" width="94px" alt="Onomappu channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhgcyrXjyFZXOno0pTyWi3eOqC9aULwh5jOZcBE=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ)
-
-[**Onomappu**](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ) </br>
-Content about: Onomatopoeia, how to learn japanese, Japanese culture in easy japanese \
-Featured playlists: `Onomatopoeia All Videos`
-</br></br>
