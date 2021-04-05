@@ -50,6 +50,13 @@ Content about: Genki textbook lessons, learning methods \
 Featured playlists: `【N5-N4】GENKI Grammar Made Clear 【NO CHAT】`, `Japanese Conjugation Simplified`
 </br></br>
 
+[<img align="left" height="94px" width="94px" alt="Tokini Andy channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh5IhyuDYj1f3VXSP_VsPHsV_dggBWHph6gXNNvlQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/japanesepod101)
+
+[**JapanesePod 101**](https://www.youtube.com/user/japanesepod101) </br>
+Content about: Listening, vocabulary \
+Featured playlists: `Read & Write in Japanese`, `Japanese Top Words`
+</br></br>
+
 ## Learning Japanese in Japanese
 
 [<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
