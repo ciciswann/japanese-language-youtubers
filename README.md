@@ -16,8 +16,6 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Learning Japanese in English](#learning-japanese-in-english)
 - [Learning Japanese in Japanese](#learning-japanese-in-japanese)
 - [Learning Methods](#learning-methods)
-- [Conversation](#conversation)
-- [Shadowing](#shadowing-parents)
 - [Lifestyle](#lifestyle)
 
 ## Learning Japanese in English
