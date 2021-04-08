@@ -19,6 +19,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Lifestyle](#lifestyle)
 
 ## Learning Japanese in English
+Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
 
 [<img align="left" height="94px" width="94px" alt="Miku Real Japanese channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhuOeHm_8L1ew5s4Mcv-XGXNeXh_XY4wF3dHlGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 
@@ -56,6 +57,7 @@ Featured playlists: `Read & Write in Japanese`, `Japanese Top Words`
 </br></br>
 
 ## Learning Japanese in Japanese
+Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in Japanese.
 
 [<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
 
