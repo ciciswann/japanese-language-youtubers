@@ -112,6 +112,7 @@ Featured playlists: `日本語 | Japanese 🇯🇵`, `Language motivation`.
 </br></br>
 
 ## Lifestyle
+These youtubers talk more about Japanese culture and living in Japan. They also touch upon how the studied (or study) Japanese.
 
 [<img align="left" height="94px" width="94px" alt="Nihongo no Mori channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniaVZODdmRUvUOYXiZzCfia_sWLul6YtVX1_ZTDew=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/kemushichan)
 
