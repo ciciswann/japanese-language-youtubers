@@ -17,6 +17,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Learning Japanese in Japanese](#learning-japanese-in-japanese)
 - [Learning Methods](#learning-methods)
 - [Lifestyle](#lifestyle)
+- [Popular Japanese Youtubers](#popular-japanese-youtubers)
 
 ## Learning Japanese in English
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
@@ -128,3 +129,12 @@ Content about: Life in Japan, how to learn japanese, JLPT prep methods \
 Featured playlists: `JAPAN VLOGS by Loretta & Boomer`
 </br></br>
 
+## Popular Japanese Youtubers
+Japanese youtubers who are the most popular in Japan. They speak primarily (or only) in Japanese. Good listening practice for intermediate to advanced learners.
+
+[<img align="left" height="94px" width="94px" alt="Hajime channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhn4bKNuAouCXcmLNN27mFl9P_G0Gtx_IczG7BhGQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCgMPP6RRjktV7krOfyUewqw)
+
+[**はじめしゃちょー（hajime）**](https://www.youtube.com/channel/UCgMPP6RRjktV7krOfyUewqw) </br>
+Content about: Variety, comedy \
+Featured playlists: `100万円企画`, `2ndチャンネル!!チャンネル登録してね！)`Д)･;,`.
+</br></br>
