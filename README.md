@@ -138,3 +138,10 @@ Japanese youtubers who are the most popular in Japan. They speak primarily (or o
 Content about: Variety, comedy \
 Featured playlists: `100万円企画`, `2ndチャンネル!!チャンネル登録してね！)`Д)･;,`.
 </br></br>
+
+[<img align="left" height="94px" width="94px" alt="Yuka Kinoshita channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngqZYtrs2e1u9gbjzgN5Ld_QTIZPNp29kd_UrmI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFTVNLC7ysej-sD5lkLqNGA)
+
+[**Yuka Kinoshita木下ゆうか**](https://www.youtube.com/channel/UCFTVNLC7ysej-sD5lkLqNGA) </br>
+Content about: Food (Mukbang) \
+Featured playlists: `大食いチャレンジ`, `気になる商品食べてみたよ`.
+</br></br>
