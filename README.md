@@ -130,7 +130,7 @@ Featured playlists: `JAPAN VLOGS by Loretta & Boomer`
 </br></br>
 
 ## Popular Japanese Youtubers
-Japanese youtubers who are the most popular in Japan. They speak primarily (or only) in Japanese. Good listening practice for intermediate to advanced learners.
+Japanese youtubers who are the most popular in Japan. They speak primarily (or only) in Japanese. Good listening practice for intermediate to advanced learners, but they very often (if not always) provide English subtitles.
 
 [<img align="left" height="94px" width="94px" alt="Hajime channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhn4bKNuAouCXcmLNN27mFl9P_G0Gtx_IczG7BhGQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCgMPP6RRjktV7krOfyUewqw)
 
