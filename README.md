@@ -58,7 +58,7 @@ Featured playlists: `Read & Write in Japanese`, `Japanese Top Words`
 </br></br>
 
 ## Learning Japanese in Japanese
-Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in Japanese.
+Lessons about Japanese vocabulary, grammar, and culture; spoken primarily (if not entirely) in Japanese.
 
 [<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
 
