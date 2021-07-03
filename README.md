@@ -161,3 +161,9 @@ Content about: Children's show \
 [**ペッパピッグ ー Peppa Pig**](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw) </br>
 Content about: Children's show \
 </br></br>
+
+[<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSSvU2txCs-dN_SIU4uFoJCymdxFtrwIhivIVOH=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ)
+
+[**DoraDora EngSub Official**](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ) </br>
+Content about: Children's show \
+</br></br>
