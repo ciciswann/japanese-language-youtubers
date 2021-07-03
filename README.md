@@ -152,15 +152,15 @@ Immersion Content (comprehensible input) for Beginner/Intermediate Learners.
 
 [<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSBMug41HY-1cM-ooJ-zPZfauOrUICY-YJ7qc3koQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ChibiMarukoChannel/featured)
 
-[**ちびまる子ちゃんねる**](https://www.youtube.com/c/ChibiMarukoChannel/featured) </br>
+[**ちびまる子ちゃんねる**](https://www.youtube.com/c/ChibiMarukoChannel/featured) </br></br>
 </br></br>
 
 [<img align="left" height="94px" width="94px" alt="Peppa Pig channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ94-JBXhlVdIR-9E4arg4pBzVf3UGEht-yBPiKgw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw)
 
-[**ペッパピッグ ー Peppa Pig**](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw) </br>
+[**ペッパピッグ ー Peppa Pig**](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw) </br></br>
 </br></br>
 
 [<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSSvU2txCs-dN_SIU4uFoJCymdxFtrwIhivIVOH=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ)
 
-[**DoraDora EngSub Official**](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ) </br>
+[**DoraDora EngSub Official**](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ) </br></br>
 </br></br>
