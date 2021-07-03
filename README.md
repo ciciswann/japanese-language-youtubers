@@ -18,7 +18,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Learning Methods](#learning-methods)
 - [Lifestyle](#lifestyle)
 - [Popular Japanese Youtubers](#popular-japanese-youtubers)
-- [Japanese Childrens Shows](#japanese-childrens-shows)
+- [Japanese Kid Shows](#japanese-kid-shows)
 
 ## Learning Japanese in English
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
@@ -147,7 +147,7 @@ Content about: Food (Mukbang) \
 Featured playlists: `大食いチャレンジ`, `気になる商品食べてみたよ`.
 </br></br>
 
-## Japanese Childrens Shows 
+## Japanese Kid Shows 
 Immersion Content (comprehensible input) for Beginner/Intermediate Learners. 
 
 [<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSBMug41HY-1cM-ooJ-zPZfauOrUICY-YJ7qc3koQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ChibiMarukoChannel/featured)
