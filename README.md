@@ -1,6 +1,6 @@
 <div align="center">
   	<h1>
-    	Japanese Language Youtubers
+    	Japanese Language Youtube Channels
   	</h1>
 </div>
 
@@ -18,6 +18,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Learning Methods](#learning-methods)
 - [Lifestyle](#lifestyle)
 - [Popular Japanese Youtubers](#popular-japanese-youtubers)
+- [Japanese Children's Shows](#japanese-children's-shows)
 
 ## Learning Japanese in English
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
@@ -144,4 +145,19 @@ Featured playlists: `100万円企画`, `2ndチャンネル!!チャンネル登�
 [**Yuka Kinoshita木下ゆうか**](https://www.youtube.com/channel/UCFTVNLC7ysej-sD5lkLqNGA) </br>
 Content about: Food (Mukbang) \
 Featured playlists: `大食いチャレンジ`, `気になる商品食べてみたよ`.
+</br></br>
+
+## Japanese Children's Shows 
+Immersion Content for Beginner/Intermediate Learners. 
+
+[<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSBMug41HY-1cM-ooJ-zPZfauOrUICY-YJ7qc3koQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ChibiMarukoChannel/featured)
+
+[**ちびまる子ちゃんねる**](https://www.youtube.com/c/ChibiMarukoChannel/featured) </br>
+Content about: Children's show \
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Peppa Pig channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ94-JBXhlVdIR-9E4arg4pBzVf3UGEht-yBPiKgw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw)
+
+[**ペッパピッグ ー Peppa Pig**](https://www.youtube.com/channel/UCldXjuJ7Qg8wTNktOnVXkGw) </br>
+Content about: Children's show \
 </br></br>
