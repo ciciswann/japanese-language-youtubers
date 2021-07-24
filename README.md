@@ -61,6 +61,13 @@ Featured playlists: `Read & Write in Japanese`, `Japanese Top Words`
 ## Learning Japanese in Japanese
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily (if not entirely) in Japanese.
 
+[<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR5QoTn707DYooCwvUBP9jZXQvHg3bNdQc3KtwR=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)
+
+[**Comprehensible Japanese**](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA) </br>
+Content about: Comprehensible input, listening \
+Featured playlists: `Comprehensible Japanese Complete Beginner 日本語超初心者`, `Comprehensible Japanese Beginner 日本語初級`, `Comprehensible Japanese Intermediate 日本語中級`.
+</br></br>
+
 [<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngUqeuAcIS9FdwpA6dIGJ8I19yu4tUIfwKTwl-5Rg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
 
 [**三本塾Sambon Juku**](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw) </br>
