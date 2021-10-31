@@ -19,6 +19,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Lifestyle](#lifestyle)
 - [Popular Japanese Youtubers](#popular-japanese-youtubers)
 - [Japanese Kid Shows](#japanese-kid-shows)
+- [Intermediate to Advanced Listening](#intermediate-to-advanced-listening)
 
 ## Learning Japanese in English
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
@@ -60,6 +61,13 @@ Featured playlists: `Read & Write in Japanese`, `Japanese Top Words`
 
 ## Learning Japanese in Japanese
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily (if not entirely) in Japanese.
+
+[<img align="left" height="94px" width="94px" alt="Learn Japanese with Tanaka san channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSo-HDw6vD0J1ivRLNmGxwpwf7VCgHlOgic9qKc=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)
+
+[**Learn Japanese with Tanaka san**](https://www.youtube.com/channel/UCvryaJCRHcTVjOC_DcuYxGg) </br>
+Content about: Comprehensible input, listening \
+Featured playlists: `Conversation Practice`, `Listening Practice`.
+</br></br>
 
 [<img align="left" height="94px" width="94px" alt="Sambon Juku channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR5QoTn707DYooCwvUBP9jZXQvHg3bNdQc3KtwR=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)
 
@@ -155,7 +163,7 @@ Featured playlists: `大食いチャレンジ`, `気になる商品食べてみ�
 </br></br>
 
 ## Japanese Kid Shows 
-Immersion Content (comprehensible input) for Beginner/Intermediate Learners. 
+Immersion content (comprehensible input) for beginner to intermediate learners. 
 
 [<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSBMug41HY-1cM-ooJ-zPZfauOrUICY-YJ7qc3koQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ChibiMarukoChannel/featured)
 
@@ -170,4 +178,27 @@ Immersion Content (comprehensible input) for Beginner/Intermediate Learners.
 [<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSSvU2txCs-dN_SIU4uFoJCymdxFtrwIhivIVOH=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ)
 
 [**DoraDora EngSub Official**](https://www.youtube.com/channel/UCfgW9rI3ss8ptILrbtXoRHQ) </br></br>
+</br></br>
+
+## Intermediate to Advanced Listening
+Immersion content for upper intermediate to advanced learners.
+
+[<img align="left" height="94px" width="94px" alt="YuYu's Japanese Podcast channel's avatar" src="https://yt3.ggpht.com/YjGNGfmOwk0EWtQk7fHrAlYVykGICA2pvovxoMgGh-cxFd7hnj4WvYkvll7TvlETFsKIoZtr=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA/featured)
+
+[**YUYUの日本語Podcast**](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA/featured) </br></br>
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQE99TTDN-zLDtJd56Vz8bajoWdZ0KuMGqfNXRy=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UClHbaIGALnVB0aoWO-BOpqQ/featured)
+
+[**mayukoチャンネル**](https://www.youtube.com/channel/UClHbaIGALnVB0aoWO-BOpqQ/featured) </br></br>
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Chibi Maruko channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQBBukQDh1wgLm5d9DdGZcFNonoOR5NzMJb3yuwcw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/cyoshida1231)
+
+[**バイリンガール英会話 | Bilingirl Chika**](https://www.youtube.com/user/cyoshida1231) </br></br>
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="Makonari Sacho channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLS7Ucx7Kd1dH6aD91ByjteqnEaJP9y1MGcQNg9E=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC7I3QTra4_kC4TSu8f7rHkA)
+
+[**マコなり社長**](https://www.youtube.com/channel/UC7I3QTra4_kC4TSu8f7rHkA) </br></br>
 </br></br>
