@@ -207,3 +207,8 @@ Immersion content for upper intermediate to advanced learners.
 
 [**Archipel**](https://www.youtube.com/c/ArchipelDocks) </br></br>
 </br></br>
+
+[<img align="left" height="94px" width="94px" alt="FMななももこ channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLT2OiaMXNbm_w0YiS8Lfq6DjiY_VMwopYJcsBPZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCAjqcfweHvINAKRN3MD9sNw)
+
+[**FMななももこ**](https://www.youtube.com/channel/UCAjqcfweHvINAKRN3MD9sNw) </br></br>
+</br></br>
