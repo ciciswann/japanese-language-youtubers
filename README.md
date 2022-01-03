@@ -20,6 +20,7 @@ It's recommended to open the links with the click of the mouse wheel or by right
 - [Popular Japanese Youtubers](#popular-japanese-youtubers)
 - [Japanese Kid Shows](#japanese-kid-shows)
 - [Intermediate to Advanced Listening](#intermediate-to-advanced-listening)
+- [Japanese News Channels](#japanese-news-channels)
 
 ## Learning Japanese in English
 Lessons about Japanese vocabulary, grammar, and culture; spoken primarily in English.
@@ -211,4 +212,17 @@ Immersion content for upper intermediate to advanced learners.
 [<img align="left" height="94px" width="94px" alt="FMななももこ channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLT2OiaMXNbm_w0YiS8Lfq6DjiY_VMwopYJcsBPZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCAjqcfweHvINAKRN3MD9sNw)
 
 [**FMななももこ**](https://www.youtube.com/channel/UCAjqcfweHvINAKRN3MD9sNw) </br></br>
+</br></br>
+
+## Japanese News Channels
+Listening for upper intermediate to advanced.
+
+[<img align="left" height="94px" width="94px" alt="ANNnewsCH channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSmoqY3fwT4NULPCJ_js6B1N4_5EUm7TxIv3GGRvQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ)
+
+[**ANNnewsCH**](https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ) </br></br>
+</br></br>
+
+[<img align="left" height="94px" width="94px" alt="ABCテレビニュース channel's avatar" src="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCPW-5qfYGNR8XYrvESrqJKA)
+
+[**ABCテレビニュース**](https://www.youtube.com/channel/UCPW-5qfYGNR8XYrvESrqJKA) </br></br>
 </br></br>
