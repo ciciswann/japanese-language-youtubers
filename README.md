@@ -84,6 +84,13 @@ Content about: Grammar, listening, JLPT Prep \
 Featured playlists: `日本語おもしろい！`, `JLPT N3`, `JLPT N2`, `JLPT N1`.
 </br></br>
 
+[<img align="left" height="94px" width="94px" alt="yusuke channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9MKKlYmRHao3CRzAqUtYbuwtEdMx7VDBFkQFDO=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA)
+
+[**もしもしゆうすけ**](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA) </br>
+Content about: Conversations, listening, vlogging \
+Featured playlists: `Conversation Series`, `Monologue Series`.
+</br></br>
+
 [<img align="left" height="94px" width="94px" alt="Nihongo to Tabi channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni3uE2lIdWJimQ-j4DdYazaPB6_-Khao8ejdou97A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ)
 
 [**Nihongo to Tabi**](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ) </br>
